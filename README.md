@@ -1,5 +1,8 @@
 # incubyteAssessment
 
+**Test Cases**
+https://docs.google.com/spreadsheets/d/1VnLO97t8nd3faRbguTte_luYeSCg8NIwdi8Q2awJd1U/edit?usp=sharing
+
 #**Project Overview**
 
     This project is a demonstration of Behavior-Driven Development (BDD) using Cucumber and Selenium for automated web testing. The tests are written in Gherkin language and implemented using        Java to validate functionality on the Magento e-commerce platform.
@@ -64,6 +67,8 @@ src/test/resources
     - Run tests using the Maven command:
     - mvn test
 - Or execute the TestRunner class from the IDE.
+
+  
 
 
 #**Reporting**
